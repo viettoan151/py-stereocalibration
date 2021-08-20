@@ -10,9 +10,9 @@ You must have knowledge about these term:
 - block matching
 
 Some images will help:<br/>
-<img src="images/stereo_depth.jpg" width="300" height="300"> <br/>
-<img src="images/essential_matrix.jpg" width="300" height="300"> <br/>
-<img src="images/epipolar.jpg" width="300" height="300"> <br/>
+<img src="images/stereo_depth.jpg" width="225"> <br/>
+<img src="images/essential_matrix.jpg" width="225"> <br/>
+<img src="images/epipolar.jpg" width="225"> <br/>
 
 # System requirement
 Create virtual environment : 
@@ -62,6 +62,6 @@ You just need to modify the correct path to downloaded **cam_checkerboard** fold
 (venv_name) $ python3 StereoCalibration.py
 ```
 You will get output: <br/>
-<img src="images/disparity.png" width="500" height="500"> <br/>
+<img src="images/disparity.png" width="753"> <br/>
 
 
